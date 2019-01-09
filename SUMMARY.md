@@ -5,9 +5,9 @@
 ## a group
 
 * [test](a-group/test.md)
+* [aa](a-group/aa.md)
 
 ## b group
 
-* [aa](aa.md)
-* [bb](bb.md)
+* [bb](b-group/bb.md)
 
